@@ -1,6 +1,6 @@
-Dimitriy
-Aleksandr
-Mixail
-Sasha
-Timur
+Dimitriy - 2000
+Aleksandr - 1400
+Mixail - 3000
+Sasha - 3333
+Timur - 5000
 
